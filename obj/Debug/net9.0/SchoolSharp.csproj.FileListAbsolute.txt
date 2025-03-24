@@ -1,0 +1,14 @@
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/bin/Debug/net9.0/SchoolSharp
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/bin/Debug/net9.0/SchoolSharp.deps.json
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/bin/Debug/net9.0/SchoolSharp.runtimeconfig.json
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/bin/Debug/net9.0/SchoolSharp.dll
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/bin/Debug/net9.0/SchoolSharp.pdb
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.AssemblyInfoInputs.cache
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.AssemblyInfo.cs
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.csproj.CoreCompileInputs.cache
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.dll
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/refint/SchoolSharp.dll
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.pdb
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.genruntimeconfig.cache
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/ref/SchoolSharp.dll
