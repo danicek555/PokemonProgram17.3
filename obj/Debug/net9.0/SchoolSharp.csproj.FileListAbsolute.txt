@@ -12,3 +12,4 @@
 /Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.pdb
 /Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.genruntimeconfig.cache
 /Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/ref/SchoolSharp.dll
+/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/Debug/net9.0/SchoolSharp.sourcelink.json
