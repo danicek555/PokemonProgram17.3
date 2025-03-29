@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielmitka/Desktop/Csharp/SchoolSharp/SchoolSharp.csproj",
+      "projectUniqueName": "/Users/danielmitka/Desktop/Csharp/PokemonProgram17.3/SchoolSharp.csproj",
       "projectName": "SchoolSharp",
-      "projectPath": "/Users/danielmitka/Desktop/Csharp/SchoolSharp/SchoolSharp.csproj",
+      "projectPath": "/Users/danielmitka/Desktop/Csharp/PokemonProgram17.3/SchoolSharp.csproj",
       "packagesPath": "/Users/danielmitka/.nuget/packages/",
-      "outputPath": "/Users/danielmitka/Desktop/Csharp/SchoolSharp/obj/",
+      "outputPath": "/Users/danielmitka/Desktop/Csharp/PokemonProgram17.3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danielmitka/.nuget/NuGet/NuGet.Config"
